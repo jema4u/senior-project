@@ -32,11 +32,9 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "university",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "What kinds of items are there?"
       ],
       "responses": [
         "We sell coffee and tea",
@@ -44,40 +42,19 @@
       ]
     },
     {
-      "tag": "payments",
+      "tag": "AP",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "How many AP classes should I take?",
+        "How many AP classes must I take?",
+        "How many AP classes can I take?",
+        "Is there a limit in taking AP courses?",
+        "Is it ok to take more than 2 AP courses in 10th grade?",
+        "Is it ok to take more than 4 AP courses in 11th grade?",
+        "Is it ok to take more than 4 AP courses in 12th grade?",
+        "What should I do to take more AP courses?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
-      ]
-    },
-    {
-      "tag": "delivery",
-      "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
-      ],
-      "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
-      ]
-    },
-    {
-      "tag": "funny",
-      "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
-      ],
-      "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "Students should take no more than 2 in 10th grade and no more than 4 in 11th and 12th grade. Any more than that and students tend to be too stressed to be able to perform well in their classes. For students who want to take 5 APs in 11th or 12th grade, they must apply prior to registration and get approval by an Academic Review Board, composed of current teachers and administrators."
       ]
     }
   ]
